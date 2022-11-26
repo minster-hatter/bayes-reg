@@ -1,3 +1,7 @@
+# Output files which can be generated from code in this repo.
+*.txt
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
