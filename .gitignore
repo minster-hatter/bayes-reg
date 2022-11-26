@@ -1,4 +1,5 @@
 # Output files which can be generated from code in this repo.
+*.csv
 *.txt
 *.png
 
